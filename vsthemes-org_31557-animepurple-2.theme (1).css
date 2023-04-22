@@ -1,0 +1,27 @@
+/**
+ * @name animepurple 2
+ * @author ЛюБиМиЙ
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/31557-animepurple-2.html
+ * @authorLink https://vsthemes.org/user/%D0%9B%D1%8E%D0%91%D0%B8%D0%9C%D0%B8%D0%99/
+ * @authorId 36508
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.15;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 160,33,238;
+    --background: url("https://vsthemes.org/uploads/posts/2021-04/1618577533_2017anime_anime_girl_with_purple_hair_112866_.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
