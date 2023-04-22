@@ -24,4 +24,5 @@
     --backgroundsize: cover;
     --popoutsize: cover;
     --backdropsize: cover;
+     a:link {color: white;}  
 }
